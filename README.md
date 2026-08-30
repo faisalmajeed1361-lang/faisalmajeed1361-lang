@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Majeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Kaggle-Faisal%20Majeed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://www.linkedin.com/in/faisal-majeed-1310372b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Majeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://faisal-majeed-ai-portfolio.faisalmajeed1361.chatgpt.site/?v=2" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
