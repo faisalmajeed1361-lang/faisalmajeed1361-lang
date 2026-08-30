@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faisal-majeed-1310372b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Faisal%20Majeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/faisalmajeed0290" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Faisal%20Majeed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://faisal-majeed-ai-portfolio.faisalmajeed1361.chatgpt.site/?v=2" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
