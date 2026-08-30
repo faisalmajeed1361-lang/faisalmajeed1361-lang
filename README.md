@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faisal Majeed</h1>
-<h3 align="center">AI Developer • Backend Engineer • Flutter & Django Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=850&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Faisal+Majeed;AI+Developer+%F0%9F%A4%96;Backend+Engineer+%E2%9A%99%EF%B8%8F;Flutter+%26+Django+Developer+%F0%9F%9A%80" alt="Animated introduction">
+</p>
 
 <p align="center">
   Building intelligent, practical, and user-focused software—from AI-powered learning platforms to production-ready backend APIs and desktop applications.
